@@ -141,5 +141,5 @@ public class AddressBook
 
 ###3.2流程图
 
-<img src="images/digester01.png" alt="digester01" style="zoom:100%;" />
+<img src="images/digester01.png" style="zoom:100%;" />
 
