@@ -22,7 +22,7 @@ import java.util.Arrays;
  * --------------------------------------------------
  * </pre>
  */
-public class Solution {
+public class Algorithm {
 
     public static void main(String[] args) {
         System.out.println(test(3,2));
