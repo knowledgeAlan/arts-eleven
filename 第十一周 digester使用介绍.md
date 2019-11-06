@@ -1,6 +1,5 @@
 
-
- #commons-digester3使用和介绍
+#commons-digester3使用和介绍
 
 ## 1.环境
 
@@ -135,11 +134,11 @@ public class AddressBook
 
 ### 3.1 使用digester类介绍
 
-####3.1.1属性stack 保存xml中元素，不断把解析元素压入栈中，遇到解析结束标签出栈
+#### 3.1.1属性stack 保存xml中元素，不断把解析元素压入栈中，遇到解析结束标签出栈
 
 #### 3.1.2属性rules保存处理元素规则
 
-###3.2流程图
+### 3.2流程图
 
 <img src="images/digester01.png" alt="digester01" style="zoom:100%;" />
 
