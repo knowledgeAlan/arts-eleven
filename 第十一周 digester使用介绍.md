@@ -140,8 +140,5 @@ public class AddressBook
 #### 3.1.2属性rules保存处理元素规则
 
 ###3.2流程图
-
-
-
 <img src="images/digester01.png" style="zoom:100%;" />
 
